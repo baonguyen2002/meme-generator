@@ -3,6 +3,7 @@
 A simple meme generator written using HTML, CSS, Javascript and ultilizing the React library.
 
 Meme images are fetched using Imgflip's free API.
+URL: https://api.imgflip.com/get_memes
 
 This is one of my first React Project, as I'm learning about the library.
 
